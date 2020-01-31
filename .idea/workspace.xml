@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82347b6f-2ff5-420e-ba13-0da6d1f91457" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Dev_Software/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XA3YSrznAZjas0d686cJsTVVXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dev_ws" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestCalculatorService">
+    <configuration name="TestCalculatorService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wss4jdemo-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="za.co.fnb.ws.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="za.co.fnb.ws.client" />
+      <option name="MAIN_CLASS_NAME" value="za.co.fnb.ws.client.TestCalculatorService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="$PROJECT_DIR$/../../../Dev_Software/apache-maven-3.5.3" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="threads" />
+            <option name="updateIndicesOnProjectOpen" value="true" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="$PROJECT_DIR$/../../../Dev_Software/apache-maven-3.5.3/conf/settings.xml" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Build" />
+      <item itemvalue="JUnit.TestCalculatorService" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCalculatorService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82347b6f-2ff5-420e-ba13-0da6d1f91457" name="Default Changelist" comment="" />
+      <created>1580475118405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580475118405</updated>
+      <workItem from="1580475122116" duration="4412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580475875747">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="450" y="294" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580475875747" />
+    <state x="406" y="176" width="1163" height="777" key="CommitChangelistDialog2" timestamp="1580479973324">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="406" y="176" width="1163" height="777" key="CommitChangelistDialog2/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479973324" />
+    <state x="775" y="422" width="424" height="454" key="FileChooserDialogImpl" timestamp="1580475873929">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="775" y="422" width="424" height="454" key="FileChooserDialogImpl/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580475873929" />
+    <state width="1809" height="288" key="GridCell.Tab.0.bottom" timestamp="1580479916552">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="288" key="GridCell.Tab.0.bottom/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479916552" />
+    <state width="1809" height="288" key="GridCell.Tab.0.center" timestamp="1580479916551">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="288" key="GridCell.Tab.0.center/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479916551" />
+    <state width="1809" height="288" key="GridCell.Tab.0.left" timestamp="1580479916551">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="288" key="GridCell.Tab.0.left/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479916551" />
+    <state width="1809" height="288" key="GridCell.Tab.0.right" timestamp="1580479916552">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="288" key="GridCell.Tab.0.right/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479916552" />
+    <state x="587" y="316" width="800" height="498" key="Vcs.Push.Dialog.v2" timestamp="1580479975889">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="587" y="316" width="800" height="498" key="Vcs.Push.Dialog.v2/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580479975889" />
+    <state x="645" y="283" width="694" height="538" key="find.popup" timestamp="1580475453779">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="645" y="283" width="694" height="538" key="find.popup/65.24.1855.1056/1985.24.1375.876@65.24.1855.1056" timestamp="1580475453779" />
+  </component>
+</project>
